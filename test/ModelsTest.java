@@ -19,7 +19,7 @@ import play.test.Helpers;
 import com.avaje.ebean.Ebean;
 
 /////////////////////////
-
+ // git tag -a v1.0 -m 'End of the javaguide2: http://www.playframework.com/documentation/2.1.x/JavaGuide2
 //????????????????????????????
 import play.*;
 import play.libs.*;
